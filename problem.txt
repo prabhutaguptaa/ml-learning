@@ -1,0 +1,11 @@
+1.colomn and rows?
+2.what type of data is stored?
+3.missing data?
+
+info()//it is a method
+gives:
+1.no of rows and colomns
+2.columns name
+3.data type eg int64,float,object(for categorical data or string)
+4.non null counts
+5.memory usage of the data frame

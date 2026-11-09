@@ -1,0 +1,13 @@
+import numpy as np
+array=np.array([20,30,40,50,60])
+print("Sum of all elements in the array:",np.sum(array))
+print("Mean of all elements in the array:",np.mean(array))
+print("Median of all elements in the array:",np.median(array))
+print("Standard Deviation of all elements in the array:",np.std(array))
+print("Variance of all elements in the array:",np.var(array))
+print("Minimum value in the array:",np.min(array))
+print("Maximum value in the array:",np.max(array))
+print("Index of minimum value in the array:",np.argmin(array))
+print("Index of maximum value in the array:",np.argmax(array))
+print("Cumulative sum of all elements in the array:",np.cumsum(array))
+print("Cumulative product of all elements in the array:",np.cumprod(array))

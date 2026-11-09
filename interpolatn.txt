@@ -1,0 +1,22 @@
+10
+20
+30
+40
+50
+
+
+1000
+2000
+3000
+4000
+5000
+
+linear
+
+1-pressure data integrity
+2-smooth trends
+3-avoid  data loss
+
+
+axi=0(row) axis=1(colomn)
+interpolate()

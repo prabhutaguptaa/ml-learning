@@ -1,0 +1,22 @@
+1.selecting specific colomn
+2.filter rows
+3.combine multiple conditions
+
+1-to select specific colomn=>square brackets
+2-to select specific row=>boolean conditions
+
+selecting columns
+1.single column=a series
+2.dataframe for multiple series
+
+colomn=df["colomn name]
+subset=df["Coloum1","Coloum2","Coloum3"..]
+
+
+filtering rows
+boolean indexing
+
+based on single 
+conditionsfiltered_row=df[df["salary]>5000]
+
+combine multiple conditionsfiltered_rows=df[(df["Coloum"]>value) & (df["Coloum"]<value)]
